@@ -1374,7 +1374,8 @@ input:focus {
 }
 
 .main-demo header {
-  background: url("../images/header-bg.jpg");
+  /*background: url("../images/header-bg.jpg");*/
+  background: url("../images/backgroundvideo.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
